@@ -1,0 +1,20 @@
+.group-wWM3zP_M- {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    flex: 0 0 auto;
+    background-color: #0000;
+    margin-left: 1px;
+    border-radius: 0 0 2px 2px;
+    overflow: hidden;
+    min-width: 38px;
+    justify-content: center;
+    cursor: default;
+}
+.chart-page :not(input):not(textarea):not(.selectable), .tv-profile .tags, .unselectable {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #fff !important;
+}
